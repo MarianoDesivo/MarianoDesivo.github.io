@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+}
+h2{
+    background-color: #4D6AFF;
+}
+article{
+    position: relative;
+}
+#foto{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+ul #nombre { list-style-type: "👤"; }
+ul #telefono { list-style-type: "📞"; }
+ul #email { list-style-type: "📧"; }
+ul #nacimiento { list-style-type: "📅"; }
+
+.exp{
+    list-style-type: "🧰";
+}
+.estudios{
+    list-style-type: "📑";
+}
