@@ -12,6 +12,9 @@ article{
     right: 0;
     top: 0;
 }
+li{
+    padding: 10px;
+}
 ul #nombre { list-style-type: "👤"; }
 ul #telefono { list-style-type: "📞"; }
 ul #email { list-style-type: "📧"; }
